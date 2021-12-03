@@ -1,16 +1,16 @@
 # E-Commerce-App-using-Android--Kotlin
 
 LANGUAGES USED:
-1.JAVA
 
+1.JAVA
 2.XML :FOR LAYOUT
 
 TOOLS AND TECHNOLOGIES USED:
 1.ANDROID STUDIO(FOR DEVELOPMENT PURPOSE)
 
-2.FIREBASE REALTIME DATABASE
 
-DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
+DESCRIPTION OF EACH ACTIVITY/Kotlin FILE:
+
 1.MAIN ACTIVITY:
 Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
 
