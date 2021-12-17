@@ -24,7 +24,7 @@ Registers a new customer/user onto the online database after asking their creden
 
 
 4.MEMBERREG:
-Java file containing constructor to initialize database objects for users and functions to get(return) characteristics(variables) for each object.
+kotlin file containing constructor to initialize database objects for users and functions to get(return) characteristics(variables) for each object.
 
 
 5.LOGIN PAGE:
@@ -52,4 +52,4 @@ Push ordered item details and customer information into Order database and uploa
 
 
 10.RDERS
-Java file containing constructor to initialize database objects for placed orders and functions to get(return) characteristics(variables) for each object.
+Kotlin file containing constructor to initialize database objects for placed orders and functions to get(return) characteristics(variables) for each object.
