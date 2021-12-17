@@ -16,7 +16,7 @@ Welcome screen of the app which shows the app logo and a background for 2 second
 
 
 2.REGLOGCHOICE:
-Activity providing choice between user register,user login,admin login,staff login and about section.
+Activity providing choice between user register,user login and about section.
 
 
 3.REGISTER PAGE:
@@ -47,9 +47,9 @@ Adapter class for displaying items in a recycler view
 Display selected item from recycler adapter individually
 
 
-9.LACE ORDER:
+9.PLACE ORDER:
 Push ordered item details and customer information into Order database and upload it on Firebase.
 
 
-10.RDERS
+10.ORDERS
 Kotlin file containing constructor to initialize database objects for placed orders and functions to get(return) characteristics(variables) for each object.
