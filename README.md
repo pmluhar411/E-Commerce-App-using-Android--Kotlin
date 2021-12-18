@@ -13,6 +13,7 @@ DESCRIPTION OF EACH ACTIVITY/Kotlin FILE:
 
 1.MAIN ACTIVITY:
 Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
+![for upload 1st](https://user-images.githubusercontent.com/89212944/146628796-278525af-a602-4fd6-aa16-f28da04a377b.jpg)
 
 
 2.REGLOGCHOICE:
